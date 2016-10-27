@@ -1,0 +1,8 @@
+#shape {
+  source: "pizza.png";
+  scale: 1.0;
+  persist-transformed-shape: false;
+  size: 100%;
+  render-details: false;
+  cut-threshold: 500.0;
+}
